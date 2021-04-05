@@ -1,0 +1,24 @@
+{
+    "sales": [
+        {
+            "id": 52,
+            "totalPercentCashback": "12.7"
+        },
+        {
+            "id": 53,
+            "totalPercentCashback": "75.7"
+        },
+        {
+            "id": 54,
+            "totalPercentCashback": "21.8"
+        },
+        {
+            "id": 55,
+            "totalPercentCashback": "91.2"
+        },
+        {
+            "id": 56,
+            "totalPercentCashback": "24.7"
+        }
+    ]
+}

@@ -1,0 +1,481 @@
+{
+  "sales": [
+    {
+      "id": 1,
+      "date": "2020-11-19",
+      "totalValue": "955.47",
+      "totalValueCashback": "456.71",
+      "totalPercentCashback": "47.8",
+      "status": "approved",
+      "sellerId": 1
+    },
+    {
+      "id": 2,
+      "date": "2021-02-15",
+      "totalValue": "891.99",
+      "totalValueCashback": "768.90",
+      "totalPercentCashback": "86.2",
+      "status": "approved",
+      "sellerId": 1
+    },
+    {
+      "id": 3,
+      "date": "2020-10-08",
+      "totalValue": "128.84",
+      "totalValueCashback": "94.05",
+      "totalPercentCashback": "73.0",
+      "status": "reproved",
+      "sellerId": 1
+    },
+    {
+      "id": 4,
+      "date": "2020-05-04",
+      "totalValue": "417.61",
+      "totalValueCashback": "88.95",
+      "totalPercentCashback": "21.3",
+      "status": "approved",
+      "sellerId": 1
+    },
+    {
+      "id": 5,
+      "date": "2021-01-27",
+      "totalValue": "790.48",
+      "totalValueCashback": "64.03",
+      "totalPercentCashback": "8.1",
+      "status": "approved",
+      "sellerId": 1
+    },
+    {
+      "id": 6,
+      "date": "2020-08-15",
+      "totalValue": "541.50",
+      "totalValueCashback": "315.69",
+      "totalPercentCashback": "58.3",
+      "status": "reproved",
+      "sellerId": 1
+    },
+    {
+      "id": 7,
+      "date": "2020-12-16",
+      "totalValue": "885.20",
+      "totalValueCashback": "860.41",
+      "totalPercentCashback": "97.2",
+      "status": "approved",
+      "sellerId": 1
+    },
+    {
+      "id": 8,
+      "date": "2021-03-29",
+      "totalValue": "571.47",
+      "totalValueCashback": "506.89",
+      "totalPercentCashback": "88.7",
+      "status": "approved",
+      "sellerId": 1
+    },
+    {
+      "id": 9,
+      "date": "2020-08-22",
+      "totalValue": "696.44",
+      "totalValueCashback": "681.81",
+      "totalPercentCashback": "97.9",
+      "status": "approved",
+      "sellerId": 1
+    },
+    {
+      "id": 10,
+      "date": "2020-08-21",
+      "totalValue": "768.95",
+      "totalValueCashback": "728.96",
+      "totalPercentCashback": "94.8",
+      "status": "approved",
+      "sellerId": 1
+    },
+    {
+      "id": 11,
+      "date": "2020-09-12",
+      "totalValue": "909.11",
+      "totalValueCashback": "881.84",
+      "totalPercentCashback": "97.0",
+      "status": "reproved",
+      "sellerId": 1
+    },
+    {
+      "id": 12,
+      "date": "2020-09-09",
+      "totalValue": "368.01",
+      "totalValueCashback": "131.01",
+      "totalPercentCashback": "35.6",
+      "status": "reproved",
+      "sellerId": 1
+    },
+    {
+      "id": 13,
+      "date": "2020-05-28",
+      "totalValue": "465.69",
+      "totalValueCashback": "277.09",
+      "totalPercentCashback": "59.5",
+      "status": "reproved",
+      "sellerId": 1
+    },
+    {
+      "id": 14,
+      "date": "2020-05-06",
+      "totalValue": "856.40",
+      "totalValueCashback": "373.39",
+      "totalPercentCashback": "43.6",
+      "status": "reproved",
+      "sellerId": 1
+    },
+    {
+      "id": 15,
+      "date": "2021-02-05",
+      "totalValue": "938.66",
+      "totalValueCashback": "654.25",
+      "totalPercentCashback": "69.7",
+      "status": "reproved",
+      "sellerId": 1
+    },
+    {
+      "id": 16,
+      "date": "2020-08-28",
+      "totalValue": "232.31",
+      "totalValueCashback": "46.00",
+      "totalPercentCashback": "19.8",
+      "status": "approved",
+      "sellerId": 1
+    },
+    {
+      "id": 17,
+      "date": "2020-09-06",
+      "totalValue": "47.10",
+      "totalValueCashback": "19.45",
+      "totalPercentCashback": "41.3",
+      "status": "reproved",
+      "sellerId": 1
+    },
+    {
+      "id": 18,
+      "date": "2021-01-11",
+      "totalValue": "443.55",
+      "totalValueCashback": "228.43",
+      "totalPercentCashback": "51.5",
+      "status": "approved",
+      "sellerId": 1
+    },
+    {
+      "id": 19,
+      "date": "2020-10-22",
+      "totalValue": "315.84",
+      "totalValueCashback": "141.81",
+      "totalPercentCashback": "44.9",
+      "status": "approved",
+      "sellerId": 1
+    },
+    {
+      "id": 20,
+      "date": "2020-12-23",
+      "totalValue": "168.96",
+      "totalValueCashback": "61.33",
+      "totalPercentCashback": "36.3",
+      "status": "approved",
+      "sellerId": 1
+    },
+    {
+      "id": 21,
+      "date": "2020-08-14",
+      "totalValue": "347.30",
+      "totalValueCashback": "282.01",
+      "totalPercentCashback": "81.2",
+      "status": "reproved",
+      "sellerId": 1
+    },
+    {
+      "id": 22,
+      "date": "2020-05-08",
+      "totalValue": "691.59",
+      "totalValueCashback": "173.59",
+      "totalPercentCashback": "25.1",
+      "status": "reproved",
+      "sellerId": 1
+    },
+    {
+      "id": 23,
+      "date": "2020-09-10",
+      "totalValue": "484.50",
+      "totalValueCashback": "75.58",
+      "totalPercentCashback": "15.6",
+      "status": "approved",
+      "sellerId": 1
+    },
+    {
+      "id": 24,
+      "date": "2020-08-25",
+      "totalValue": "199.44",
+      "totalValueCashback": "173.91",
+      "totalPercentCashback": "87.2",
+      "status": "reproved",
+      "sellerId": 1
+    },
+    {
+      "id": 25,
+      "date": "2020-11-25",
+      "totalValue": "239.32",
+      "totalValueCashback": "102.91",
+      "totalPercentCashback": "43.0",
+      "status": "approved",
+      "sellerId": 1
+    },
+    {
+      "id": 26,
+      "date": "2020-04-23",
+      "totalValue": "69.09",
+      "totalValueCashback": "9.81",
+      "totalPercentCashback": "14.2",
+      "status": "approved",
+      "sellerId": 1
+    },
+    {
+      "id": 27,
+      "date": "2020-05-17",
+      "totalValue": "401.35",
+      "totalValueCashback": "201.48",
+      "totalPercentCashback": "50.2",
+      "status": "approved",
+      "sellerId": 1
+    },
+    {
+      "id": 28,
+      "date": "2020-11-05",
+      "totalValue": "884.79",
+      "totalValueCashback": "775.08",
+      "totalPercentCashback": "87.6",
+      "status": "reproved",
+      "sellerId": 1
+    },
+    {
+      "id": 29,
+      "date": "2021-01-28",
+      "totalValue": "581.59",
+      "totalValueCashback": "531.57",
+      "totalPercentCashback": "91.4",
+      "status": "approved",
+      "sellerId": 1
+    },
+    {
+      "id": 30,
+      "date": "2020-10-14",
+      "totalValue": "639.20",
+      "totalValueCashback": "340.05",
+      "totalPercentCashback": "53.2",
+      "status": "approved",
+      "sellerId": 1
+    },
+    {
+      "id": 31,
+      "date": "2021-02-02",
+      "totalValue": "500.81",
+      "totalValueCashback": "304.49",
+      "totalPercentCashback": "60.8",
+      "status": "approved",
+      "sellerId": 1
+    },
+    {
+      "id": 32,
+      "date": "2020-12-15",
+      "totalValue": "717.68",
+      "totalValueCashback": "63.16",
+      "totalPercentCashback": "8.8",
+      "status": "approved",
+      "sellerId": 1
+    },
+    {
+      "id": 33,
+      "date": "2021-03-09",
+      "totalValue": "710.41",
+      "totalValueCashback": "409.91",
+      "totalPercentCashback": "57.7",
+      "status": "reproved",
+      "sellerId": 1
+    },
+    {
+      "id": 34,
+      "date": "2020-12-18",
+      "totalValue": "987.61",
+      "totalValueCashback": "119.50",
+      "totalPercentCashback": "12.1",
+      "status": "approved",
+      "sellerId": 1
+    },
+    {
+      "id": 35,
+      "date": "2020-07-18",
+      "totalValue": "560.60",
+      "totalValueCashback": "276.94",
+      "totalPercentCashback": "49.4",
+      "status": "approved",
+      "sellerId": 1
+    },
+    {
+      "id": 36,
+      "date": "2020-08-27",
+      "totalValue": "961.81",
+      "totalValueCashback": "254.88",
+      "totalPercentCashback": "26.5",
+      "status": "reproved",
+      "sellerId": 1
+    },
+    {
+      "id": 37,
+      "date": "2021-03-29",
+      "totalValue": "692.62",
+      "totalValueCashback": "445.35",
+      "totalPercentCashback": "64.3",
+      "status": "reproved",
+      "sellerId": 1
+    },
+    {
+      "id": 38,
+      "date": "2020-07-22",
+      "totalValue": "64.26",
+      "totalValueCashback": "20.43",
+      "totalPercentCashback": "31.8",
+      "status": "reproved",
+      "sellerId": 1
+    },
+    {
+      "id": 39,
+      "date": "2020-07-18",
+      "totalValue": "33.02",
+      "totalValueCashback": "25.10",
+      "totalPercentCashback": "76.0",
+      "status": "reproved",
+      "sellerId": 1
+    },
+    {
+      "id": 40,
+      "date": "2021-03-07",
+      "totalValue": "51.48",
+      "totalValueCashback": "49.78",
+      "totalPercentCashback": "96.7",
+      "status": "reproved",
+      "sellerId": 1
+    },
+    {
+      "id": 41,
+      "date": "2021-04-02",
+      "totalValue": "613.67",
+      "totalValueCashback": "312.97",
+      "totalPercentCashback": "51.0",
+      "status": "approved",
+      "sellerId": 1
+    },
+    {
+      "id": 42,
+      "date": "2020-12-24",
+      "totalValue": "958.95",
+      "totalValueCashback": "632.91",
+      "totalPercentCashback": "66.0",
+      "status": "approved",
+      "sellerId": 1
+    },
+    {
+      "id": 43,
+      "date": "2021-03-02",
+      "totalValue": "560.62",
+      "totalValueCashback": "108.20",
+      "totalPercentCashback": "19.3",
+      "status": "reproved",
+      "sellerId": 1
+    },
+    {
+      "id": 44,
+      "date": "2020-10-20",
+      "totalValue": "411.47",
+      "totalValueCashback": "355.10",
+      "totalPercentCashback": "86.3",
+      "status": "approved",
+      "sellerId": 1
+    },
+    {
+      "id": 45,
+      "date": "2020-04-09",
+      "totalValue": "354.74",
+      "totalValueCashback": "161.05",
+      "totalPercentCashback": "45.4",
+      "status": "approved",
+      "sellerId": 1
+    },
+    {
+      "id": 46,
+      "date": "2020-05-07",
+      "totalValue": "988.70",
+      "totalValueCashback": "266.95",
+      "totalPercentCashback": "27.0",
+      "status": "approved",
+      "sellerId": 1
+    },
+    {
+      "id": 47,
+      "date": "2020-07-06",
+      "totalValue": "834.39",
+      "totalValueCashback": "136.84",
+      "totalPercentCashback": "16.4",
+      "status": "approved",
+      "sellerId": 1
+    },
+    {
+      "id": 48,
+      "date": "2021-02-01",
+      "totalValue": "78.12",
+      "totalValueCashback": "21.87",
+      "totalPercentCashback": "28.0",
+      "status": "reproved",
+      "sellerId": 1
+    },
+    {
+      "id": 49,
+      "date": "2020-08-22",
+      "totalValue": "231.40",
+      "totalValueCashback": "93.25",
+      "totalPercentCashback": "40.3",
+      "status": "approved",
+      "sellerId": 1
+    },
+    {
+      "id": 50,
+      "date": "2020-06-13",
+      "totalValue": "764.20",
+      "totalValueCashback": "166.60",
+      "totalPercentCashback": "21.8",
+      "status": "approved",
+      "sellerId": 1
+    },
+    {
+      "id": "123",
+      "totalValue": "321",
+      "date": "2021-04-04",
+      "sellerId": "1",
+      "totalPercentCashback": "",
+      "totalValueCashback": "",
+      "status": "reproved"
+    },
+    {
+      "id": "3211",
+      "totalValue": "123",
+      "date": "2021-04-06",
+      "sellerId": "1",
+      "totalPercentCashback": "",
+      "totalValueCashback": "",
+      "status": "reproved"
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "name": "eduardo",
+      "email": "eduardo@email.com",
+      "password": "eduardo",
+      "cpf": "12312312312"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "name": "local-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js",
+    "generate-data": "node generateData.js > db.json"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "faker": "^5.5.2",
+    "json-server": "^0.16.3",
+    "jsonwebtoken": "^8.5.1"
+  }
+}
